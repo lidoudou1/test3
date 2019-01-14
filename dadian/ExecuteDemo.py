@@ -1,5 +1,5 @@
 #coding=utf-8
-__author__ = 'lixuefang'
+__author__ = 'lixinyan'
 
 from Point_Rules import TTS_Rules
 from Point_Rules import Video_Rules
