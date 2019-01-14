@@ -1,0 +1,3 @@
+AppLaunching_duration,FeedAutoRefreshing_duration,Feed_A,Feed_B,Feed_BeforeFetchGap,Feed_BdWindow,Feed_BeforeReadDbGap,Feed_ScheduleTask,Feed_Refreshing,Feed_ReadDb,Feed_DbThreadSwitch
+1108,1456,1427,-38,286,-,-7,88,1170,185,103
+808,1485,1472,-34,231,-,-26,52,1254,167,86

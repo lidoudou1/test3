@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9f062f4-fa10-4ea6-94ce-72959a3acb28" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FeedOOMTest$tetx2.coverage" NAME="tetx2 Coverage Results" MODIFIED="1544955829084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$maxValueStatistic.coverage" NAME="maxValueStatistic Coverage Results" MODIFIED="1545289142923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$Unittests_in_FeedPerformanceCase_py.coverage" NAME="Unittests in FeedPerformanceCase.py Coverage Results" MODIFIED="1544957964331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$ConfigInfo.coverage" NAME="ConfigInfo Coverage Results" MODIFIED="1544336506160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$dValueStatistic.coverage" NAME="dValueStatistic Coverage Results" MODIFIED="1545287465378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$get_cpu_memory_v3_0.coverage" NAME="get_cpu_memory_v3.0 Coverage Results" MODIFIED="1544351038306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$PublicFunctions.coverage" NAME="PublicFunctions Coverage Results" MODIFIED="1544338116021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$FeedPerformanceCase.coverage" NAME="FeedPerformanceCase Coverage Results" MODIFIED="1544201137724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$StatisticsData.coverage" NAME="StatisticsData Coverage Results" MODIFIED="1544693182706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test03__1_.coverage" NAME="test03 (1) Coverage Results" MODIFIED="1544346866234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test01" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1544198336920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1545132859219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1545136610300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedOOMTest$ExecuteScript.coverage" NAME="ExecuteScript Coverage Results" MODIFIED="1545137053206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="642711724">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="40" />
+          <entry key="out" value="3" />
+          <entry key="py" value="150" />
+          <entry key="pyi" value="1" />
+          <entry key="txt" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="40" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Python" value="150" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="py" value="1186" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="1186" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="102" lean-forward="true" selection-start-line="21" selection-start-column="102" selection-end-line="21" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wait app star</find>
+      <find>write_info</find>
+      <find>pathdir</find>
+      <find>unittest</find>
+      <find>maxFileNum</find>
+      <find>compareData</find>
+      <find>writeDateToFile</find>
+      <find>txt</find>
+      <find>case1</find>
+      <find>result</find>
+      <find>start</find>
+      <find>restart_app</find>
+      <find>Command</find>
+      <find>_mem_report_</find>
+      <find>ConfigIn</find>
+      <find>case3_refresh</find>
+      <find>time_file</find>
+      <find>timeFile</find>
+      <find>os.path.exists</find>
+      <find>dirIsExist</find>
+      <find>fileIsExist</find>
+      <find>time_columns</find>
+      <find>csv</find>
+      <find>.csv</find>
+      <find>get_cpu_</find>
+      <find>.CSV</find>
+      <find>case</find>
+      <find>xlsxwriter</find>
+      <find>numpy</find>
+      <find>worksheet</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test02.py" />
+        <option value="$PROJECT_DIR$/FeedPerformanceCase.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v2.0.py" />
+        <option value="$PROJECT_DIR$/Test01/test03.py" />
+        <option value="$PROJECT_DIR$/Test01/test001.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v3.0.py" />
+        <option value="$PROJECT_DIR$/get_cpu_memory_v3.py" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/SC8_mem_report_2018-12-09-18-23-58.csv" />
+        <option value="$PROJECT_DIR$/TestCases/tetx2.py" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/SC8_mem_report_2018-12-16-19-20-14.csv" />
+        <option value="$PROJECT_DIR$/dValueStatistic.py" />
+        <option value="$PROJECT_DIR$/StatisticsData.py" />
+        <option value="$PROJECT_DIR$/Data/case2_refresh/time_case1.txt" />
+        <option value="$PROJECT_DIR$/Data/case1_refresh/time_case1.txt" />
+        <option value="$PROJECT_DIR$/test03.py" />
+        <option value="$PROJECT_DIR$/Test01.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase.py" />
+        <option value="$PROJECT_DIR$/diffValueStatistic.py" />
+        <option value="$PROJECT_DIR$/ConfigInfo.py" />
+        <option value="$PROJECT_DIR$/maxValueStatistic.py" />
+        <option value="$PROJECT_DIR$/PublicFunctions.py" />
+        <option value="$PROJECT_DIR$/ExecuteScript.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase6.py" />
+        <option value="$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1280" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FeedOOMTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FeedOOMTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestCases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestCases" />
+      <recent name="$PROJECT_DIR$/Data/case2_refresh" />
+      <recent name="$PROJECT_DIR$/Data/case1_refresh" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ExecuteScript">
+    <configuration name="ExecuteScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExecuteScript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in FeedPerformanceCase2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in FeedPerformanceCase3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in FeedPerformanceCase5.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in FeedPerformanceCase6.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FeedOOMTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/FeedPerformanceCase6.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in FeedPerformanceCase3.py" />
+      <item itemvalue="Python tests.Unittests in FeedPerformanceCase5.py" />
+      <item itemvalue="Python tests.Unittests in FeedPerformanceCase6.py" />
+      <item itemvalue="Python.ExecuteScript" />
+      <item itemvalue="Python tests.Unittests in FeedPerformanceCase2.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ExecuteScript" />
+        <item itemvalue="Python tests.Unittests in FeedPerformanceCase3.py" />
+        <item itemvalue="Python tests.Unittests in FeedPerformanceCase5.py" />
+        <item itemvalue="Python tests.Unittests in FeedPerformanceCase2.py" />
+        <item itemvalue="Python tests.Unittests in FeedPerformanceCase6.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9f062f4-fa10-4ea6-94ce-72959a3acb28" name="Default" comment="" />
+      <created>1544000616960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544000616960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_FeedPerformanceCase3_py - 2019.01.08 at 17h 13m 18s.xml">
+      <configuration name="Unittests in FeedPerformanceCase3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 18h 46m 32s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 18h 49m 47s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 18h 56m 56s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 19h 00m 54s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 19h 02m 33s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase5_py - 2019.01.09 at 19h 04m 08s.xml">
+      <configuration name="Unittests in FeedPerformanceCase5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase3_py - 2019.01.10 at 17h 18m 03s.xml">
+      <configuration name="Unittests in FeedPerformanceCase3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase3_py - 2019.01.10 at 17h 22m 55s.xml">
+      <configuration name="Unittests in FeedPerformanceCase3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_FeedPerformanceCase3_py - 2019.01.10 at 17h 23m 32s.xml">
+      <configuration name="Unittests in FeedPerformanceCase3.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23696682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.22574258" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41369864" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.43448275" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23696682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.22574258" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41369864" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.43448275" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase6.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase6.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maxValueStatistic.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ExecuteScript.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ExecuteScript.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-15-29-41.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-15-24-43.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-15-30-58.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-15-40-56.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-16-28-51.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/1e8_mem_report_2019-01-08-16-30-10.csv" />
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="547" selection-start-line="547" selection-end-line="547" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/appium/webdriver/common/touch_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/appium/webdriver/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-08-19-54-53.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-08-19-41-43.csv" />
+    <entry file="file://$PROJECT_DIR$/get_cpu_memory_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="194" column="88" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-09-16-03-38.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/1e8_mem_report_2019-01-09-15-30-49.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-09-16-17-14.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/time_case3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case5_refresh/1e8_mem_report_2019-01-09-17-09-00.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case5_refresh/1e8_mem_report_2019-01-09-17-19-34.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case5_refresh/1e8_mem_report_2019-01-09-17-14-22.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case5_refresh/1e8_mem_report_2019-01-09-17-24-45.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case5_refresh/time_case5.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/case6_refresh/time_case6.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/case6_refresh/1e8_mem_report_2019-01-09-19-39-59.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/time_case4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case6_refresh/1e8_mem_report_2019-01-09-19-46-07.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-09-16-42-55.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/1e8_mem_report_2019-01-09-16-56-01.csv" />
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diffValueStatistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/36L_mem_report_2019-01-10-17-01-19.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case4_refresh/36L_mem_report_2019-01-10-17-01-20.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case6_refresh/1e8_mem_report_2019-01-09-19-27-52.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case6_refresh/1e8_mem_report_2019-01-09-19-33-54.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/36L_mem_report_2019-01-10-17-01-18.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case3_refresh/36L_mem_report_2019-01-10-17-01-17.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/36L_mem_report_2019-01-10-17-01-15.csv" />
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/time_case2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExecuteScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="69" column="37" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="37" />
+          <folding>
+            <element signature="e#41#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/xlsxwriter/workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxValueStatistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/case2_refresh/36L_mem_report_2019-01-10-17-26-23.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="78" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="74" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/FeedPerformanceCase2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="102" lean-forward="true" selection-start-line="21" selection-start-column="102" selection-end-line="21" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
